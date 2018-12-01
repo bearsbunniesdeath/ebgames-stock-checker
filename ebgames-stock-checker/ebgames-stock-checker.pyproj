@@ -11,6 +11,9 @@
     <OutputPath>.</OutputPath>
     <Name>ebgames-stock-checker</Name>
     <RootNamespace>ebgames-stock-checker</RootNamespace>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <CommandLineArguments>756571</CommandLineArguments>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
